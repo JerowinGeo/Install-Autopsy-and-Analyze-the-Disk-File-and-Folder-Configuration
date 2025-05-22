@@ -1,6 +1,9 @@
-# NAME:T.KAVINAJAI
-# REGISTER NO: 212223100020
+
 # Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
+
+### NAME:JEROWIN GEO J A 
+### REGISTER NO: 212223100016
+
 ## AIM:
 To install Autopsy on Kali Linux and analyze disk images, files, and folder configurations for digital forensic purposes.
 
